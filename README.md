@@ -1,6 +1,6 @@
 # Deno Updater Proxy
 
-[![Deploy](https://deno.com/deno-deploy-button.svg)](https://dash.deno.com/new?url=https://github.com/lemarier/updater-deno/blob/main/main.ts&env=GITHUB_ACCOUNT,GITHUB_REPO)
+[![Deploy](https://deno.com/deno-deploy-button.svg)](https://dash.deno.com/new?url=https://raw.githubusercontent.com/lemarier/updater-deno/main/main.ts&env=GITHUB_ACCOUNT,GITHUB_REPO)
 
 Sample PoC for Tauri updater using deno deploy or cloudflare workers.
 
